@@ -1,0 +1,6 @@
+framework module Pods_swift_9_task {
+  umbrella header "Pods-swift_9_task-umbrella.h"
+
+  export *
+  module * { export * }
+}
